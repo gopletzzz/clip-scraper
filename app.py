@@ -9,7 +9,8 @@ st.set_page_config(page_title="Clip Scraper", layout="wide")
 st.title("Clip Scraper")
 st.info(
     "Catatan penting:\n\n"
-    "•  TikTok, kolom **Followers Count** akan kosong.\n\n"
+    "• Bekerja optimal untuk Twitch \n\n"
+    "• TikTok, kolom **Followers Count** akan kosong.\n\n"
     "• Reels, kolom **username** yang ditampilkan adalah display name (bukan username).\n\n"
     "• Lainnya aman bang 😁😁😁😁"
 )
@@ -75,7 +76,6 @@ if st.button("Scrape"):
 
             st.subheader("Output Table")
             st.dataframe(df, use_container_width=True)
-
 
             st.download_button(
                 "Download CSV",
