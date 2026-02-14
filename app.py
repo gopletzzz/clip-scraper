@@ -5,7 +5,7 @@ import json
 import pandas as pd
 from datetime import datetime
 
-st.set_page_config(page_title="TikTok Clip Scraper", layout="wide")
+st.set_page_config(page_title="Clip Scraper", layout="wide")
 st.title("Clip Scraper")
 st.info(
     "Catatan penting:\n\n"
