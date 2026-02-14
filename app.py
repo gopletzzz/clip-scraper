@@ -11,7 +11,7 @@ st.info(
     "Catatan penting:\n\n"
     "• Bekerja optimal untuk Twitch \n\n"
     "• TikTok, kolom **Followers Count** akan kosong.\n\n"
-    "• Reels, kolom **username** yang ditampilkan adalah display name (bukan username).\n\n"
+    "• Reels, kolom **Username** yang ditampilkan adalah display name (bukan username).\n\n"
     "• Lainnya aman bang 😁😁😁😁"
 )
 
